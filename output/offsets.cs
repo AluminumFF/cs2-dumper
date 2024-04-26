@@ -4,7 +4,7 @@
 namespace CS2Dumper.Offsets {
     // Module: client.dll
     public static class ClientDll {
-        public const nint dwCSGOInput = 0x192EF60;
+             public const nint dwCSGOInput = 0x192EF60;
         public const nint dwEntityList = 0x18C6268;
         public const nint dwGameEntitySystem = 0x19E3B70;
         public const nint dwGameEntitySystem_getHighestEntityIndex = 0x1510;
@@ -21,6 +21,23 @@ namespace CS2Dumper.Offsets {
         public const nint dwViewMatrix = 0x19278B0;
         public const nint dwViewRender = 0x19280B0;
         public const nint dwWeaponC4 = 0x18C9830;
+        public const nint attack = 0x1733240;
+        public const nint attack2 = 0x17332D0;
+        public const nint back = 0x1733510;
+        public const nint duck = 0x17337E0;
+        public const nint forward = 0x1733480;
+        public const nint jump = 0x1733750;
+        public const nint left = 0x17335A0;
+        public const nint lookatweapon = 0x192EE80;
+        public const nint reload = 0x17331B0;
+        public const nint right = 0x1733630;
+        public const nint showscores = 0x192ED60;
+        public const nint sprint = 0x1733120;
+        public const nint turnleft = 0x1733360;
+        public const nint turnright = 0x17333F0;
+        public const nint use = 0x17336C0;
+        public const nint zoom = 0x192EDF0;
+    }
     }
     // Module: engine2.dll
     public static class Engine2Dll {
