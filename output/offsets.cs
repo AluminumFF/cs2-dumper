@@ -4,39 +4,39 @@
 namespace CS2Dumper.Offsets {
     // Module: client.dll
     public static class ClientDll {
-             public const nint dwCSGOInput = 0x192EF60;
+        public const nint dwCSGOInput = 0x192EF50;
         public const nint dwEntityList = 0x18C6268;
-        public const nint dwGameEntitySystem = 0x19E3B70;
+        public const nint dwGameEntitySystem = 0x19E3B60;
         public const nint dwGameEntitySystem_getHighestEntityIndex = 0x1510;
-        public const nint dwGameRules = 0x1923370;
-        public const nint dwGlobalVars = 0x172DD60;
-        public const nint dwGlowManager = 0x1923788;
-        public const nint dwLocalPlayerController = 0x1915C18;
-        public const nint dwLocalPlayerPawn = 0x173A3C8;
-        public const nint dwPlantedC4 = 0x192C408;
-        public const nint dwPrediction = 0x173A290;
-        public const nint dwSensitivity = 0x19240B8;
+        public const nint dwGameRules = 0x1923360;
+        public const nint dwGlobalVars = 0x172DD50;
+        public const nint dwGlowManager = 0x1923778;
+        public const nint dwLocalPlayerController = 0x1915C08;
+        public const nint dwLocalPlayerPawn = 0x173A3B8;
+        public const nint dwPlantedC4 = 0x192C3F8;
+        public const nint dwPrediction = 0x173A280;
+        public const nint dwSensitivity = 0x19240A8;
         public const nint dwSensitivity_sensitivity = 0x40;
-        public const nint dwViewAngles = 0x19342F0;
-        public const nint dwViewMatrix = 0x19278B0;
-        public const nint dwViewRender = 0x19280B0;
+        public const nint dwViewAngles = 0x19342E0;
+        public const nint dwViewMatrix = 0x19278A0;
+        public const nint dwViewRender = 0x19280A0;
         public const nint dwWeaponC4 = 0x18C9830;
-        public const nint attack = 0x1733240;
-        public const nint attack2 = 0x17332D0;
-        public const nint back = 0x1733510;
-        public const nint duck = 0x17337E0;
-        public const nint forward = 0x1733480;
-        public const nint jump = 0x1733750;
-        public const nint left = 0x17335A0;
-        public const nint lookatweapon = 0x192EE80;
-        public const nint reload = 0x17331B0;
-        public const nint right = 0x1733630;
-        public const nint showscores = 0x192ED60;
-        public const nint sprint = 0x1733120;
-        public const nint turnleft = 0x1733360;
-        public const nint turnright = 0x17333F0;
-        public const nint use = 0x17336C0;
-        public const nint zoom = 0x192EDF0;
+        public const nint attack = 0x1733230;
+        public const nint attack2 = 0x17332C0;
+        public const nint back = 0x1733500;
+        public const nint duck = 0x17337D0;
+        public const nint forward = 0x1733470;
+        public const nint jump = 0x1733740;
+        public const nint left = 0x1733590;
+        public const nint lookatweapon = 0x192EE70;
+        public const nint reload = 0x17331A0;
+        public const nint right = 0x1733620;
+        public const nint showscores = 0x192ED50;
+        public const nint sprint = 0x1733110;
+        public const nint turnleft = 0x1733350;
+        public const nint turnright = 0x17333E0;
+        public const nint use = 0x17336B0;
+        public const nint zoom = 0x192EDE0;
     }
     }
     // Module: engine2.dll
